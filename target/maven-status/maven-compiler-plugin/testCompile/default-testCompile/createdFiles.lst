@@ -1,0 +1,8 @@
+base\BaseTest.class
+pages\LoginPage.class
+testRunner\TestRunner.class
+pages\HomePage.class
+pages\SearchPage.class
+stepDefinitions\Steps.class
+pages\NewCustomPage.class
+pages\HomePage$1.class
